@@ -10,7 +10,6 @@ A User Authentication Boilerplate in MEAN .
 
 ### Features
 - Local Authentication using Passport-jwt
-- Account Management with
 - MVC Project Structure
 - flash notifications
 
@@ -32,11 +31,11 @@ $ node start
 ```
 
 ### TODO
-- ~~[] profile details~~
-- ~~[] change password~~
-- ~~[]forgot password~~
-- ~~[]reset password~~
-- ~~[]delete account~~
+- [] profile details
+- [] change password
+- []forgot password
+- []reset password
+- []delete account
 
 #### Contributing
 Pull requests from developers are welcome.
