@@ -1,0 +1,39 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "MEAN authentication using JWT and passport.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickyadav/MEAN_jwt_auth.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Angular2.0",
+    "MongoDB",
+    "JWT",
+    "passport-jwt",
+    "Authentication"
+  ],
+  "author": "Hanik Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickyadav/MEAN_jwt_auth/issues"
+  },
+  "homepage": "https://github.com/nickyadav/MEAN_jwt_auth#readme",
+  "dependencies":{
+    "express":"*",
+    "mongoose":"*",
+    "bcryptjs":"*",
+    "cors":"*",
+    "jsonwebtoken":"*",
+    "body-parser":"*",
+    "passport":"*",
+    "passport-jwt":"*"
+  }
+}
